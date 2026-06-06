@@ -2,6 +2,10 @@
 
 Target length: 2 to 3 minutes.
 
+Prepared no-audio backup video:
+
+https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/releases/download/demo-v1/riskguard-demo.mp4
+
 ## Opening
 
 RiskGuard is a Track 2 Strategy Skills project for BNB HACK. It does not try to execute live trades. Instead, it generates a backtestable crypto strategy specification using CoinMarketCap-oriented market data, then validates the strategy with explicit no-lookahead rules, fees, slippage, stop loss, take profit, position sizing, and drawdown controls.

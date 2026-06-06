@@ -57,4 +57,4 @@ Use:
 - Prize target: `Best Use of Agent Hub / CoinMarketCap`
 - GitHub URL: `https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill`
 - Website URL: Vercel production URL
-- Video URL: uploaded demo video URL
+- Video URL: `https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/releases/download/demo-v1/riskguard-demo.mp4`
