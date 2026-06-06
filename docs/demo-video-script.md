@@ -2,6 +2,10 @@
 
 Target length: 2 to 3 minutes.
 
+Live demo:
+
+https://riskguard-cmc-strategy-skill.vercel.app
+
 Prepared no-audio backup video:
 
 https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/releases/download/demo-v1/riskguard-demo.mp4

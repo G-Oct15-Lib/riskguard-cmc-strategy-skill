@@ -46,6 +46,12 @@ CLI deployment:
 npx vercel --prod --yes
 ```
 
+Production URL:
+
+```text
+https://riskguard-cmc-strategy-skill.vercel.app
+```
+
 If no `CMC_PRO_API_KEY` is configured, the app still works with deterministic demo OHLCV data.
 
 ## DoraHacks
@@ -56,5 +62,5 @@ Use:
 - Track: `Track 2: Strategy Skills`
 - Prize target: `Best Use of Agent Hub / CoinMarketCap`
 - GitHub URL: `https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill`
-- Website URL: Vercel production URL
+- Website URL: `https://riskguard-cmc-strategy-skill.vercel.app`
 - Video URL: `https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/releases/download/demo-v1/riskguard-demo.mp4`

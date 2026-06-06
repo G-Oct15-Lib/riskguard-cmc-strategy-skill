@@ -53,7 +53,7 @@ Track 2: Strategy Skills
 ## Links To Add
 
 - GitHub: https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill
-- Demo: add Vercel URL after deployment
+- Demo: https://riskguard-cmc-strategy-skill.vercel.app
 - Video: https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/releases/download/demo-v1/riskguard-demo.mp4
 - Screenshots:
   - https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/blob/main/docs/assets/riskguard-dashboard-balanced.jpg

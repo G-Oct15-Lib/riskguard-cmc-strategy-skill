@@ -88,8 +88,8 @@ See `docs/buidl-submission.md` for the DoraHacks BUIDL draft, prize targets, and
 Submission links:
 
 - GitHub: https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill
+- Live demo: https://riskguard-cmc-strategy-skill.vercel.app
 - Demo video: https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/releases/download/demo-v1/riskguard-demo.mp4
-- Live demo: add Vercel URL after deployment
 
 Additional prep docs:
 
