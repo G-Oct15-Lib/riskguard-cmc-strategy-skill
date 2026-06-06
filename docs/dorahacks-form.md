@@ -52,9 +52,13 @@ Track 2: Strategy Skills
 
 ## Links To Add
 
-- GitHub: add repository URL after pushing
+- GitHub: https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill
 - Demo: add Vercel URL after deployment
 - Video: add demo video URL after uploading
+- Screenshots:
+  - https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/blob/main/docs/assets/riskguard-dashboard-balanced.jpg
+  - https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/blob/main/docs/assets/riskguard-dashboard-aggressive.jpg
+  - https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill/blob/main/docs/assets/riskguard-strategy-json.jpg
 
 ## Suggested Tags
 

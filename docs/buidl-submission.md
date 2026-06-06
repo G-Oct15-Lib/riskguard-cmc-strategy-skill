@@ -26,13 +26,17 @@ Track 2: Strategy Skills
 
 ## Deliverables
 
-- GitHub repository
+- GitHub repository: https://github.com/G-Oct15-Lib/riskguard-cmc-strategy-skill
 - Live demo URL
 - Demo video
 - `skills/riskguard-strategy-skill/SKILL.md`
 - `README.md`
 - Strategy JSON export from the app
 - Smoke backtest output from `npm run backtest`
+- Screenshots:
+  - `docs/assets/riskguard-dashboard-balanced.jpg`
+  - `docs/assets/riskguard-dashboard-aggressive.jpg`
+  - `docs/assets/riskguard-strategy-json.jpg`
 
 ## Demo Script
 
@@ -52,9 +56,9 @@ Track 2: Strategy Skills
 
 ## Final Checklist
 
-- [ ] GitHub repo is public.
+- [x] GitHub repo is public.
 - [ ] Vercel demo URL is live.
 - [ ] Demo video is uploaded.
 - [ ] DoraHacks BUIDL uses `Track 2: Strategy Skills`.
 - [ ] `Best Use of Agent Hub / CoinMarketCap` is selected if available.
-- [ ] README, skill file, and smoke backtest output are linked or mentioned.
+- [x] README, skill file, screenshots, and smoke backtest output are linked or mentioned.

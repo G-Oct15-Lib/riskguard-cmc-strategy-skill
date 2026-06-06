@@ -59,6 +59,20 @@ npm run build
 
 Default smoke result uses deterministic BNB/4h demo data and checks that the backtest produces at least three trades and a positive demo return.
 
+## Screenshots
+
+Balanced strategy report:
+
+![Balanced strategy report](docs/assets/riskguard-dashboard-balanced.jpg)
+
+Aggressive strategy report:
+
+![Aggressive strategy report](docs/assets/riskguard-dashboard-aggressive.jpg)
+
+Exportable JSON strategy spec:
+
+![JSON strategy spec](docs/assets/riskguard-strategy-json.jpg)
+
 ## API
 
 ```bash
@@ -76,3 +90,4 @@ Additional prep docs:
 - `docs/dorahacks-form.md`
 - `docs/demo-video-script.md`
 - `docs/deployment.md`
+- `docs/assets/`
